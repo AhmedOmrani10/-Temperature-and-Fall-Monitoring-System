@@ -19,7 +19,6 @@ The system is designed for environments where safety and monitoring are essentia
 - 🌡️ **Temperature Monitoring:** Reads temperature using analog sensors via ADC.
 - 🚨 **Alarm Trigger:** Buzzer alert system activated based on event thresholds.
 - ⏱️ **Real-Time Scheduling:** FreeRTOS manages tasks like sensor reading, data processing, and alert handling.
-- 🧪 **Simulation Support:** Developed and tested with a C++ and OpenGL-based simulation framework.
 
 ## System Architecture
 - **Microcontroller:** STM32F411
